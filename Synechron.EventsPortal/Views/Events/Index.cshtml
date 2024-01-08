@@ -1,0 +1,52 @@
+﻿@using Synechron.EventsPortal.Models
+@model List<Event>
+
+@{
+    ViewBag.Title = "Events List!";
+}
+
+@if (Model.Count > 0)
+{
+    <h1>@ViewBag.PageTitle</h1>
+    <hr />
+    <h6>@ViewBag.PageSubTitle</h6>
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Event ID</th>
+                <th>Event code</th>
+               @* <th>Event name</th>
+                <th>Description</th>*@
+                <th>Start date</th>
+                <th>End date</th>
+              @*  <th>Fees</th>
+                <th>Total seats filled</th>*@
+              @*  <th>Logo</th>*@
+                <th>Show Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Event @events in Model)
+            {
+                <tr>
+                    <td>@events.EventId</td>
+                    <td>@events.EventCode</td>
+                   @* <td>@events.EventName</td>
+                    <td>@events.Description</td>*@
+                    <td>@events.StartDate</td>
+                    <td>@events.EndDate</td>
+                   @* <td>@events.Fees</td>
+                    <td>@events.TotalSeatsFilled</td>
+                    <td>@events.Logo</td>*@
+                    <td>
+                        @Html.ActionLink("Show Details", "Details", new { id = events.EventId }, new { @class = "btn btn-info" })
+                    </td>
+                </tr>
+                }
+        </tbody>
+    </table>
+}
+else
+{
+<h1>Sorry! We didn't find any Event records</h1>
+}

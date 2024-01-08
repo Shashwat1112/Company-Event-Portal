@@ -1,0 +1,186 @@
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Synechron.EventsPortal.dll.config
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Synechron.EventsPortal.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Synechron.EventsPortal.pdb
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csc.exe
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csc.exe.config
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csc.rsp
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csi.exe
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csi.exe.config
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csi.rsp
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.AppContext.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Console.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.Compression.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Net.Http.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Net.Sockets.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.ValueTuple.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.XPath.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\vbc.exe
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\vbc.exe.config
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\vbc.rsp
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\VBCSCompiler.exe
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Antlr3.Runtime.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Newtonsoft.Json.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Helpers.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Mvc.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Optimization.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Razor.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Deployment.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Razor.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\WebGrease.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Helpers.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Mvc.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Optimization.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Razor.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Deployment.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Razor.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Newtonsoft.Json.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Antlr3.Runtime.pdb
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.csproj.AssemblyReference.cache
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.csproj.CoreCompileInputs.cache
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.csproj.CopyComplete
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.pdb
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\MySql.Data.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Memory.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Threading.Tasks.Extensions.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Numerics.Vectors.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Buffers.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\MySql.Data.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Abstractions.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Container.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Mvc5.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\WebActivatorEx.dll
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Threading.Tasks.Extensions.xml
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Abstractions.pdb
+C:\DotNet-Dec-2023\Day-7\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Container.pdb
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Synechron.EventsPortal.dll.config
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Synechron.EventsPortal.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Synechron.EventsPortal.pdb
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csc.exe
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csc.exe.config
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csc.rsp
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csi.exe
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csi.exe.config
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\csi.rsp
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.AppContext.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Console.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Globalization.Calendars.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.Compression.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Net.Http.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Net.Sockets.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.ValueTuple.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.XPath.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\vbc.exe
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\vbc.exe.config
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\vbc.rsp
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\VBCSCompiler.exe
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Antlr3.Runtime.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Newtonsoft.Json.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Threading.Tasks.Extensions.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Helpers.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Mvc.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Optimization.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Razor.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Deployment.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Razor.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Abstractions.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Container.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Mvc5.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\WebActivatorEx.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\WebGrease.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Memory.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Numerics.Vectors.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Buffers.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Threading.Tasks.Extensions.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Helpers.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Mvc.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Optimization.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.Razor.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Deployment.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\System.Web.WebPages.Razor.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Newtonsoft.Json.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Abstractions.pdb
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Unity.Container.pdb
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Antlr3.Runtime.pdb
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.csproj.AssemblyReference.cache
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.csproj.CoreCompileInputs.cache
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.csproj.CopyComplete
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.dll
+D:\CDAC\Cdac PC\MS NET\MS Dotnet\Synechron.EventsPortal\Synechron.EventsPortal\obj\Debug\Synechron.EventsPortal.pdb
